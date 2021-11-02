@@ -1,7 +1,7 @@
 # software development resources
 
 ```
-> :warning: **things to help software projects**
+⚠️ things to help software projects
 ```
 
 [issue templates](./issue-templates)
