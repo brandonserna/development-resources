@@ -11,12 +11,14 @@ __Tags__
 
 - [ ] coding error
 - [ ] design error
-- [ ] documentation error
+- [ ] documentation or content error
 - [ ] hardware problem
+- [ ] network or service outage
+- [ ] login or access permissions error
 
 __Description of issue__
 
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is and/or wording in any error messages encountered.
 
 __Expected behavior__
 
